@@ -1,1 +1,1 @@
-# digital_twin_validator
+# digital-twin-validator
